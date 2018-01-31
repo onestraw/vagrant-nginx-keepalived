@@ -3,6 +3,7 @@
 Demo of Nginx high availability using Vagrant
 
 * [Active-passive](active-passive/)
+* [Active-active](active-active/)
 
 
 ## Prerequisites
